@@ -6,20 +6,9 @@
 ## Introduction
 This Pac-Man project was developed as part of a school assignment at Polytechnique Montreal. The aim was to create a simplified version of the iconic game using Python and Pygame. The project involved implementing key game features like character behavior, level progression, and game screens. I am proud to share that I received a perfect score of 100% for this work, reflecting the effort and dedication put into its development.
 
-## Projet structure
+Please note that you need to run the main.py file to launch the game.
 
-pacman/
-├── main.py
-├── game.py
-├── pacman.py
-├── ghost.py
-├── helper.py
-├── home.py
-├── end.py
-├── config.py
-└── assets/
-    └── images/
-```
+
 
 #### File Details:
 main.py
