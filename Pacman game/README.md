@@ -11,25 +11,32 @@ Please note that you need to run the main.py file to launch the game.
 
 
 #### File Details:
-main.py
+main.py:
+
 The main file that launches the game. It includes the program entry point and initializes various parts of the game, such as event handling and display. Execute this file to start the game using the command: python main.py or directly from your IDE.
 
-game.py
+game.py:
+
 Manages the main game logic, including level control, character movements (Pac-Man and ghosts), and overall progression. It orchestrates game flow.
 
-pacman.py
+pacman.py:
+
 Defines Pac-Man’s behavior.
 
-ghost.py
+ghost.py:
+
 Manages enemy ghosts' behavior.
 
-helper.py
+helper.py:
+
 Provides utility functions and reusable code for the project.
 
-home.py
+home.py:
+
 Handles the home screen display where players start the game.
 
-end.py
+end.py:
+
 Manages the end-game screen, displaying results (win or lose) with a background image and a French message.
 
 config.py
