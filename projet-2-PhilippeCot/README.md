@@ -38,28 +38,42 @@ Detailed instructions: See Part 2.
 This directory is used for completing Part 1 of the project.
 
 songs.csv: 
+
 A CSV file containing song data.
+
 songs-analysis.ipynb:
+
 A Jupyter Notebook for analyzing songs.
+
 plots/: 
+
 Contains sample visual outputs expected from the Notebook.
+
 Working in Jupyter (via VS Code):
 
 Open songs-analysis.ipynb.
+
 Configure the appropriate kernel.
 
 ### Directory  `part2/`
 For object-oriented programming tasks.
 
 data/: 
+
 Includes CSV and JSON song data.
+
 modules/: 
+
 Houses class implementation files.
+
 main.py: 
+
 Tests the implementation.
+
 Run tests by executing main.py or through the editor.
 
 Data Insights (Part 1)
+
 The dataset includes metrics like Spotify streams, YouTube views, TikTok engagements, and more. Analysis includes creating visualizations and training a linear regression model.
 
 ## Content
