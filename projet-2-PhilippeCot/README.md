@@ -1,5 +1,7 @@
 # Projet 2 : Data Processing and Object-Oriented Programming
 
+# Introduction:
+This playlist system project was developed as part of a school assignment at Inducedieul. The objective was to implement an object-oriented design for creating and playing playlists using Python. The project emphasized the use of abstract classes, inheritance, and aggregation to model instruments, songs, and playlists effectively. I am proud to share that I achieved a perfect score of 100% for this project, demonstrating the quality and effort put into its completion.
 This projet is splitted in 2 different parts.
 
 #### Partie 1 :  Data Processing
