@@ -1,4 +1,4 @@
-# Projet Pac-Man in Python
+# Project Pac-Man in Python
 
 ### Requirements
 `python3 -m pip install -U pygame --user`
